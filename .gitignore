@@ -1,0 +1,7 @@
+# npm
+/node_modules
+.DS_Store
+.eslintrc.json
+.devcontainer/devcontainer.json
+.devcontainer/Dockerfile
+step.html
